@@ -23,7 +23,10 @@
 				"C:/Users/i4uis/OneDrive/Documents/Unreal Projects/PlatformerGameSchool/Content/Interactables/AnimatedInteractables/BP_Door.uasset",
 				"C:/Users/i4uis/OneDrive/Documents/Unreal Projects/PlatformerGameSchool/Content/Enemy/Turret/BP_Turret.uasset",
 				"C:/Users/i4uis/OneDrive/Documents/Unreal Projects/PlatformerGameSchool/Content/Enemy/Turret/BP_TurretProjectile.uasset",
-				"F:/EpicGames/Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+				"F:/EpicGames/Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/i4uis/OneDrive/Documents/Unreal Projects/PlatformerGameSchool/Content/Materials/ButtonMaterial.uasset",
+				"C:/Users/i4uis/OneDrive/Documents/Unreal Projects/PlatformerGameSchool/Content/Interactables/AnimatedInteractables/BP_Button.uasset",
+				"C:/Users/i4uis/OneDrive/Documents/Unreal Projects/PlatformerGameSchool/Content/Interactables/AnimatedInteractables/MAT_Color.uasset"
 			]
 		}
 	]
